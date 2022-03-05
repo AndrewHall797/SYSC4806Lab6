@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5267ff70-18c1-4b3a-bad0-4ef6fb319a5b" name="Changes" comment="" />
+    <list default="true" id="5267ff70-18c1-4b3a-bad0-4ef6fb319a5b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AddressBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BuddyInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/AddressBookTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BuddyInfoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/address/TestingWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/address/TestingWeb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AddressBook-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/AddressBook-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +26,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -53,6 +65,7 @@
     </option>
   </component>
   <component name="ProjectId" id="24F2ixbhBseFU7shIQkjWOrSams" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,14 +80,7 @@
       <recent name="C:\Users\Andrew\IdeaProjects\AddressBook\src\main\resources\META-INF" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpringApp (1)">
-    <configuration name="AddressBookView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="address.AddressBookView" />
-      <module name="AddressBook" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.All in AddressBook (1)">
     <configuration name="SpringApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="address.SpringApp" />
       <module name="AddressBook" />
@@ -88,24 +94,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpringApp" />
-      <module name="AddressBook" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ToDo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="address.ToDo" />
-      <module name="AddressBook" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="AddressBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AddressBook" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AddressBookTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in AddressBook (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AddressBook" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in AddressBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AddressBook" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuddyInfoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AddressBook" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BuddyInfoTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,19 +140,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AddressBookView" />
-      <item itemvalue="Application.ToDo" />
-      <item itemvalue="Application.SpringApp" />
       <item itemvalue="Application.SpringApp (1)" />
       <item itemvalue="JUnit.AddressBookTest" />
+      <item itemvalue="JUnit.BuddyInfoTest" />
+      <item itemvalue="JUnit.All in AddressBook" />
+      <item itemvalue="JUnit.All in AddressBook (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpringApp (1)" />
+        <item itemvalue="JUnit.All in AddressBook (1)" />
+        <item itemvalue="JUnit.All in AddressBook" />
+        <item itemvalue="JUnit.BuddyInfoTest" />
         <item itemvalue="JUnit.AddressBookTest" />
-        <item itemvalue="Application.SpringApp" />
-        <item itemvalue="Application.ToDo" />
-        <item itemvalue="Application.AddressBookView" />
+        <item itemvalue="Application.SpringApp (1)" />
       </list>
     </recent_temporary>
   </component>
